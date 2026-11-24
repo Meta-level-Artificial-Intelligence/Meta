@@ -938,7 +938,7 @@ The current world needs further improvement in the domain of rights to guarantee
 > Even if {temporary, self-perceived: rule attribute} predicts a situation favorable to oneself, because it is a {zero-sum game: attribute} and should avoid {short-term gains, long-term risks: rule attribute} {event: domain of rights}, can {this event: domain of rights: right holder} benefit unjustly?
 
 > Throughout history, those who indulge in extreme luxury and power have ultimately become the targets of reckoning. Compared to a zero-sum game (rule attributes), a positive-sum game (rule attributes) offers greater transparency and timeliness in terms of overall rule attributes, stock, and directionality towards the individual (ownership domain). This avoids the misleading implications of information hierarchy (event rights rule attributes). How can this be verified? You need to judge for yourself from a higher level (ownership domain).
-> [{Individual:Domain}:{Event:Domain}:{This Event:Domain:Right Owner}]:{Higher Level:Domain}={1:1:1.618}:1.618
+> {Individual:Domain}:{Event:Domain}:{This Event:Domain:Right Owner}:{Higher Level:Domain}={1:1:1.618}:1.618
 >
 > ## Topic Selection:
 >
